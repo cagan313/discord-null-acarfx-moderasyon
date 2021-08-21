@@ -1,0 +1,83 @@
+{
+    "sunucuIsmi" : "",
+    "sunucuUfakIsim": "",
+    "Tag": "",
+    "IkinciTag": "",
+    "yasakTaglar": [""],
+    "sunucuDavetLinki": "",
+    "embedUfakResim": "",
+    "Kanallar": {
+        "kayitSonrasi": [""],
+        "banLogKanali": "",
+        "kickLogKanali": "",
+        "jailLogKanali": "",
+        "supheliLogKanali": "",
+        "yasakliTagLogKanali": "",
+        "muteLogKanali": "",
+        "sesmuteLogKanali": "",
+        "uyarıLogKanali": "",
+        "tagLogKanali": "",
+        "chatKanali": "",
+        "kurallarKanal": "",
+        "mesajLogKanali": "",
+        "kayıtkanalı": ""
+
+    
+    },
+    
+    
+    "Roller": {
+        "botcuRolu": "",
+        "kurucuRolu": "",
+        "altKurucuRolu": "",
+        "yonetimRolu": "",
+        "boosterRolu": "",
+        "muteRolu": "",
+        "jailRolu": "",
+        "supheliRolu": "",
+        "yasakliTagRolu": "",
+        "istatistikciRolleri": ["", "", "", ""],
+        "botCommand": [""],
+        "warnHammer": [""],
+        "muteHammer": [""],
+        "voiceMuteHammer": [""],
+        "jailHammer": [""],
+        "banHammer": [""],
+        "roleManager": ["", "", "", ""],
+        "ytrolu": ["", ""],
+        "yt2": ["", "", ""],
+        "yt3": ["", "", "", "", ""],
+        "register": "",
+        "vipRolu": ""
+    },
+    "kayıtRolleri": {
+        "kayıtsızYapanRoller": ["", "", "", ""],
+        "kayıtYapanRoller": [""],
+        "kayıtsızRolleri": [""],
+        "tagRolu": "",
+        "erkekRolleri": ["", "", ""],
+        "kadinRolleri": ["", "", ""],
+        "erekek": [""],
+        "karıı": [""],
+        "yarram": [""]
+
+    },
+    
+    "Emojiler": {
+        "tag": "",
+        "Onay": "",
+        "Iptal": "",
+        "afkOldu": "",
+        "afkOlmadi": "",
+        "hosgeldinGif1": "",
+        "hosgeldinGif2": "",
+        "hosgeldinGif3": "",
+        "hosgeldinGif4": "",
+        "hosgeldinGif5": "",
+        "hosgeldinGif6": "",
+        "susturuldu": "",
+        "susturmakaldirildi": "",
+        "jailatildi": ""
+    }
+    }
+    
